@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jardoin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jacob_ardoin@icloud.com">
+  <a href="mailto:jacobardoin06@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="your-youtube-URL">
